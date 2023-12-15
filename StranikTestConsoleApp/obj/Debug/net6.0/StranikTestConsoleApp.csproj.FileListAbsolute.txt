@@ -1,0 +1,15 @@
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\bin\Debug\net6.0\StranikTestConsoleApp.exe
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\bin\Debug\net6.0\StranikTestConsoleApp.deps.json
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\bin\Debug\net6.0\StranikTestConsoleApp.runtimeconfig.json
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\bin\Debug\net6.0\StranikTestConsoleApp.dll
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\bin\Debug\net6.0\StranikTestConsoleApp.pdb
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.AssemblyInfo.cs
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.dll
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\refint\StranikTestConsoleApp.dll
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.pdb
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\StranikTestConsoleApp.genruntimeconfig.cache
+C:\Users\rund2\OneDrive\Рабочий стол\StranikTestConsoleApp\StranikTestConsoleApp\obj\Debug\net6.0\ref\StranikTestConsoleApp.dll
